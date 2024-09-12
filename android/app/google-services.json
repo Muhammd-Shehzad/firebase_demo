@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25672656348",
+    "project_id": "simt-demo",
+    "storage_bucket": "simt-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25672656348:android:acf63b0990ec685c8e5b19",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDp6fXbhI77ijcjoIbDWDRuMgNtqWC2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
